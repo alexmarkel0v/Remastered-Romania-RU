@@ -1,0 +1,12 @@
+Remastered Romania RU
+-------------------------------------------
+
+
+Как установить
+==============
+
+Папку Remastered Romania RU и файл Remastered Romania RU.mod из архива распаковать сюда:
+
+C:\Users\*Username*\Documents\Paradox Interactive\Hearts of Iron IV\mod
+
+Включить мод в лаунчере. Играть.

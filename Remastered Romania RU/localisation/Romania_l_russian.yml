@@ -24,20 +24,64 @@ ROM_democratic_party:0 "НЛП"
 ROM_democratic_party_long:0 "Национальная либеральная партия"
 ROM_fascism_party:0 "Железная гвардия"
 ROM_fascism_party_long:0 "Железная гвардия"
+ROM_fascism_party_2:0 "PNC"
+ROM_fascism_party_2_long:0 "Partidul Naţional Creştin"
 
 #############
 ####Ideas####
 #############
 
-ROM_king_carol_ii_handled_2:0 "Король Кароль II"
-ROM_romanian_purge_:0 "Румынская чистка"
-ROM_unstable_politics:0 "Нестабильная политика"
-ROM_research_speed:0 "Инвестиции в электронику"
+ROM_king_carol_ii_hedonist_2:0 "King Carol II's Lifestyle"
+ROM_king_carol_ii_hedonist_3:0 "King Carol II"
+ROM_the_sentinel_of_the_motherland_3:0 "The Sentinel of the Motherland"
+ROM_extra_budget:0 "Increased Budget"
+ROM_romanian_purge_:0 "Romanian Purge"
+ROM_unstable_politics:0 "Unstable Politics"
+ROM_research_speed:0 "Electronics Investment"
+ROM_michael_plot:0 "Michael I Plot?"
+ROM_iron_guard_0:0 "Iron Guard"
+ROM_iron_guard:0 "Iron Guard"
+ROM_iron_guard_2:0 "Iron Guard"
+ROM_iron_guard_3:0 "Iron Guard"
+ROM_propaganda_squad:0 "Echipa Morţi"
+ROM_propaganda_squad_2:0 "Echipa Morţi"
+ROM_anti_communism:0 "Anti-Communist Spirit"
+ROM_romanianism:0 "Cuiburi Program"
+ROM_romanianism_2:0 "Cuiburi Program"
+ROM_romanianism_3:0 "Cuiburi Program"
+ROM_army_integration:0 "Romanian Militarism"
+ROM_army_integration_2: "Romanian Militarism"
+ROM_parade:0 "Public Order"
+ROM_parade_2:0 "Public Order"
+ROM_parade_3:0 "Public Order"
+ROM_royal_research:0 "Funded Research"
+ROM_kings_propaganda_:0 "King's Propaganda"
+ROM_kings_propaganda_2:0 "King's Propaganda"
+ROM_securitate_0:0 "Securitate"
+ROM_securitate_2:0 "Securitate"
+ROM_securitate_3:0 "Securitate"
+ROM_collectivist_propaganda:0 "Collectivist Propaganda"
+ROM_collectivist_propaganda_2:0 "Collectivist Propaganda"
+ROM_worker_condition_idea:0 "Better Worker Conditions"
+ROM_worker_condition_idea_2:0 "Better Worker Conditions"
+ROM_worker_condition_idea_3:0 "Better Worker Conditions"
+ROM_soviet_style:0 "Popular Front"
+ROM_soviet_style_2:0 "Popular Front"
+ROM_soviet_style_3:0 "Popular Front"
+ROM_industrial_boom:0 "Industrial Boom"
+ROM_industrial_boom_2:0 "Industrial Boom"
+ROM_constitutional_guarantees_0:0 "Constitutional Guarantees"
+ROM_constitutional_guarantees_2:0 "Constitutional Guarantees"
+ROM_constitutional_guarantees_3:0 "Constitutional Guarantees"
+ROM_national_defense_guard:0 "National Defense Guard"
+ROM_lone_wolf:0 "Lone Wolf"
+ROM_figurehead_king_michael_2:0 "Figurehead King Michael"
 
 ################
 ####Tooltips####
 ################
 
+ROM_appoint_axis_gov_tt:0 " §YCorneliu Z. Codreanu§! will become an advisor"
 ROM_war_college_ttt:0 "§YБарбу Пэрэяну§! станет генералом."
 ROM_ioan_dumitrache_tt:0 "§YИон Думитраке§! станет генералом."
 ROM_leonard_mociulschi_tt:0 "§YЛеонард Мочульски§! станет генералом."
@@ -110,3 +154,9 @@ ROM_Gheorghe_Mihail:0 "Георге Михай"
 ROM_Alexandru_Ioanitiu:0 "Александру Иоаниджиу"
 ROM_Constantin_Cantacuzino:0 "Константин Кантакузино"
 ROM_Ermil_Gheorghiu:0 "Ермил Георгиу"
+
+###################
+###Leader Traits###
+###################
+
+true_king:0 "True King"
